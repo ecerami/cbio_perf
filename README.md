@@ -12,7 +12,7 @@ Create a virtual environment and install dependencies:
 
 Then, run like so:
 
-    python perf.py --base_url=https://www.cbioportal.org --end_point=clinical_bins --num_tries=3
+    python perf.py --base_url=https://www.cbioportal.org --end_point=clinical_bins --num_tries=10
     
 The above will use test performance of the clinical_bins endpoint ten times
 on the public portal.
