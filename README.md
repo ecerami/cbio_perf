@@ -1,6 +1,6 @@
 # cBioPortal Performance Tester
 
-This is a very simply Python script to test the performance of web API endpoints.
+This is a very simple Python script to test the performance of web API endpoints.
 
 ## To install
 
